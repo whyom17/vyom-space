@@ -1,0 +1,42 @@
+# Single-column website
+
+HEADER SECTION:
+1. Comprising of HOME on one side & PROJECTS, CONTACT and SEARCH icon on the other. 
+2. BULB TOGGLE SWITCH (placed on the extreme right side of the header section): for changing between the themes.
+
+ABOUT ME SECTION:
+1. NAME should be clearly visible with a simple Indian greeting.
+2. Along with the NAME - specific JOB ROLE, AGE, COUNTRY of residence, and  TECH STACK.
+3. An EMBEDDED MAP of my location inside the about section. 
+4. INTERACTIVE PROFILE PICTURE - placing the cursor on the image for 1 second , changes the image.
+5. RESUME: should be placed from where it can be easily seen.
+6. All SOCIAL MEDIA links should be easily accessible.
+
+TECHSTACK SECTION:
+1. Subtle ANIMATIONS on tech stack icons.
+2. Also add the name of each technology. 
+
+FEATURED PROJECTS SECTION:
+1. Subtle ANIMATIONS on 'my projects' cards.
+2. Each CARD comprises of a screenshot, name and a brief of the project along with the tech used and source code.
+
+FOOTER SECTION:
+1. LAST UPDATED feature in the footer.
+2. All SOCIAL MEDIA links should be easily accessible.
+
+BACKGROUND:
+1. Dark Mode - Not exactly black but dark as the colour of night.
+2. In the dark mode, fireflies will be moving randomly glowing in yellow. Make sure to make it subtle, not distracting.
+3. Light Mode - Not exactly white but some sort of off-white.
+4. After turning on the light mode, the fire flies get replaced by some other kind of insects like moth.
+5. In the background image, some 3d elements are present reflecting my fields of interest like guitar, singing, basketball, ...etc.
+
+OTHER UNIQUE FEATURES:
+1. Some sort of interesting VIDEO related to me in the HIDDEN CORNER placed on the lower left edge.
+2. An 'ONLY BACKGROUND' toggle switch.
+3. A CHATBOT - which has an on/off toggle in the header section.
+4. CUSTOM CURSOR : creative but not distracting
+5. Can add some simple HIDDEN GAMES like tic,tac,toe.
+
+THINGS TO AVOID:
+1. Bunch of texts, funky fonts, any buzz words.
