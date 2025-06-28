@@ -5,25 +5,51 @@
     <meta name="viewport" content="width=\, initial-scale=1.0">
     <title>Vyom's Portfolio</title>
     <link rel="stylesheet" href="style/main.css">
+    <link href="https://fonts.googleapis.com/css2?family=Baloo+2&display=swap" rel="stylesheet">
+    <!-- <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet"> -->
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.css" rel="stylesheet"/>
 </head>
 <body>
     <header>
         <nav id="nav-top">
-            <div id="home" >VYOM PANT</div>
+            <div id="home" style="font-weight: bold; font-size: 20px;">VYOM PANT</div>
+            <div ><i id="search" class="ri-search-line"></i></div>
             <div id="projects">projects</div>
             <div id="contact">contact</div>
-            <div id="search">🔍</div>
+            <div ><i id="chatbot-toggle" class="ri-robot-2-line"></i></div>
         </nav>
     </header>
 
     <main>
         <section id="hero">
-            <h1>Hero Section</h1>
-            <p>This section introduces me.</p>
+            <div id="map"> </div>
+            <div id="content">
+                <div id="profile-picture"><img src="/assets/images/my-picture.jpg" alt="Photo of Vyom"></div>
+                <div id="intro">
+                    <h1>नमस्ते , I'm Vyom (vy-ohm) </h1>
+                    <h4>19 yo ML enthusiast from India</h4>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque placeat quo iusto aspernatur veniam commodi!</p>
+                    <div id="links">
+                        <div id="resume">Resume</div>&nbsp;&nbsp;
+                        <div><a href="https://www.linkedin.com/in/vyom-pant/"><i class="ri-linkedin-box-line"></i></a></div> &nbsp;&nbsp; 
+                        <div><a href="https://github.com/whyom17"><i class="ri-github-line"></i></a></div> &nbsp;&nbsp;
+                        <div><a href="mailto:whyom17@gmail.com"><i class="ri-mail-line"></i></a></div>
+                    </div>
         </section>
 
         <section id="tech">
-            <h1>techstack</h1>
+            <div class="tech-icons"></div>
+            <div class="tech-icons"></div>
+            <div class="tech-icons"></div>
+            <div class="tech-icons"></div>
+            <div class="tech-icons"></div>
+            <div class="tech-icons"></div>
+            <div class="tech-icons"></div>
+            <div class="tech-icons"></div>
+        </section>
+
+        <section id="showcase">
+            <h1>show what you like</h1>
         </section>
 
         <section id="my-projects">
@@ -34,10 +60,9 @@
 
     <footer>
         <nav id="nav-bottom">
-            <a href="https://github.com/whyom17">GitHub</a>
-            <a href="https://www.linkedin.com/in/vyom-pant/">LinkedIn</a>
-            <a href="mailto:whyom17@gmail.com">Contact</a>
-            <p style="margin-left:auto;">last updated: xxxxxx</p>
+            <a href="https://github.com/whyom17"><i id="btm-icons" class="ri-github-fill"><small>&nbsp;GitHub</small></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="mailto:whyom17@gmail.com"><i id="btm-icons" class="ri-mail-fill"><small>&nbsp;Contact</small></i></a>
+            <p style="margin-left:auto;color: grey;">last updated: xxxxxx</p>
         </nav>
     </footer>
 
