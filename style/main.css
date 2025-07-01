@@ -71,12 +71,15 @@ main{
 }
 
 #profile-picture{
+    width: 131.25px;
     height: 175px;
 }
 
 #profile-picture img{
     width: 131.25px;
     height: 175px;
+    object-fit: cover;
+    object-position: center;
     border: 2px solid;
     border-radius: 15px;
 }
@@ -172,13 +175,18 @@ footer{
     color: white;
 }
 
-small{
-    font-family: 'Baloo 2', cursive;
-    color: grey;
+.ri-github-fill:hover #github{
+    color: white;
 }
 
-small:hover{
+.ri-mail-fill:hover #email{
     color: white;
+}
+
+span{
+    font-family: 'Baloo 2', cursive;
+    font-size: 16px;
+    color: grey;
 }
 
 @media (max-width:600px){

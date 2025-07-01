@@ -16,6 +16,11 @@ TECHSTACK SECTION:
 1. Subtle ANIMATIONS on tech stack icons.
 2. Also add the name of each technology. 
 
+SHOWCASE SECTION:
+1. "Animation is Good."
+2. (something related to ai ml) 
+3. (something chill... can be my opinion)
+
 FEATURED PROJECTS SECTION:
 1. Subtle ANIMATIONS on 'my projects' cards.
 2. Each CARD comprises of a screenshot, name and a brief of the project along with the tech used and source code.
